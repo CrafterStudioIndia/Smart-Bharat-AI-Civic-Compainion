@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
+If the following steps dont work please procced to install the Source.zip from releases. But we will recommend to install from releases because these files are only for seeing the files
+# Getting Started
 
 First, run the development server:
 
